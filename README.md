@@ -32,30 +32,46 @@ Target Variable	Charging Duration (Hours)
 🛠 Technologies Used
 
 Programming	-Python
+
 Data Analysis-Pandas, NumPy
+
 Visualization-Matplotlib, Seaborn
+
 Machine Learning-Scikit-Learn
+
 Notebook-Google Colab
 
 📊 Project Workflow
 Dataset
+
     │
     ▼
+    
 Data Cleaning
+
     │
     ▼
+    
 Feature Engineering
+
     │
     ▼
+    
 Exploratory Data Analysis
+
     │
     ▼
+    
 Statistical Analysis
+
     │
     ▼
+    
 Machine Learning Model
+
     │
     ▼
+    
 Smart EV Charging Advisor
 
 📈 Exploratory Data Analysis
