@@ -3,33 +3,31 @@ Electric Vehicle (EV) charging demand is increasing rapidly, making it important
 
 This project analyzes 1,300 EV charging sessions using Python and Machine Learning. It performs Exploratory Data Analysis (EDA), statistical analysis, feature engineering, and predictive modeling to build a Smart EV Charging Advisor that recommends the most suitable charging station based on historical charging patterns.
 
-🎯 Objectives
+## 🎯 Objectives
 
-1	Analyze EV charging patterns using EDA
+1.	Analyze EV charging patterns using EDA
 
-2	Study energy consumption and charging performance
+2.	Study energy consumption and charging performance
 
-3	Evaluate charging cost and user behavior
+3.	Evaluate charging cost and user behavior
 
-4	Build a Machine Learning prediction model
+4.	Build a Machine Learning prediction model
 
-5	Recommend the best charging station using AI
+5.	Recommend the best charging station using
 
-📂 Dataset Information
+## 📂 Dataset Information
 
-Item	Details
+Dataset-EV Charging Patterns
 
-Dataset	EV Charging Patterns
+Total Record-1,300
 
-Total Records	1,300
+Features-20+ Columns
 
-Features	20+ Columns
+Missing Values-Handled during preprocessing
 
-Missing Values	Handled during preprocessing
+Target Variable-Charging Duration (Hours)
 
-Target Variable	Charging Duration (Hours)
-
-🛠 Technologies Used
+## 🛠 Technologies Used
 
 Programming	-Python
 
@@ -41,7 +39,7 @@ Machine Learning-Scikit-Learn
 
 Notebook-Google Colab
 
-📊 Project Workflow
+## 📊 Project Workflow
 
 Dataset
 
@@ -75,7 +73,7 @@ Machine Learning Model
     
 Smart EV Charging Advisor
 
-📈 Exploratory Data Analysis
+## 📈 Exploratory Data Analysis
 
 The project includes:
 
@@ -94,13 +92,13 @@ Analysis
 
 ✅ Multivariate Analysis
 
-📷 Project Visuals
+## 📷 Project Visuals
 
 Statistic Analysis
 
 <img src="Images/Stat.png" width="800">
 
-📊 Statistical Summary
+## 📊 Statistical Summary
 
 Metric	Result
 
@@ -116,11 +114,11 @@ Common Charging Cost	$8–$40
 
 Common Energy Consumption	10–80 kWh
 
-Correlation Heatmap
+### Correlation Heatmap
 
 <img src="Images/corelation heatmep.png" width="800">
 
-Interpretation
+### Interpretation
 
 Thursday Afternoon records the highest average charging cost at approximately 27usd, followed by Thursday Morning at around $26.
 
@@ -130,10 +128,11 @@ The lowest average charging costs (around $20) occur on Monday Afternoon and Tue
 
 Most other day-and-time combinations have average charging costs between  21and 24, indicating that charging costs remain fairly stable throughout the week.
 
-🤖 Machine Learning
+## 🤖 Machine Learning
+
 Model Used
 
-✅ Random Forest Regression
+### ✅ Random Forest Regression
 
 Prediction Target
 
@@ -156,9 +155,9 @@ Time of Day
 
 User Type 
 
-💡Smart EV Charging Advisor
+## 💡Smart EV Charging Advisor
 
-The AI recommendation system suggests:
+The Smart recommendation system suggests:
 
 ✅ Best Charging Station
 
@@ -170,11 +169,11 @@ The AI recommendation system suggests:
 
 This helps EV users choose faster and more cost-effective charging options.
 
-Prediction Result
+## Prediction Result
 
 <img src="Images/Prediction Output.png" width="800">
 
-📌 Conclusion
+## 📌 Conclusion
 
 This project demonstrates how Exploratory Data Analysis, Statistical Analysis, and Machine Learning can be combined to analyze EV charging behavior and develop an intelligent recommendation system. By analyzing 1,300 charging sessions, the project identified key patterns in charging duration, energy consumption, and charging cost, while the Random Forest Regression model enabled accurate charging duration prediction. The Smart EV Charging Advisor supports users in selecting efficient and cost-effective charging stations, contributing to improved EV charging experiences.
 
