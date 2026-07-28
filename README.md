@@ -42,6 +42,7 @@ Machine Learning-Scikit-Learn
 Notebook-Google Colab
 
 📊 Project Workflow
+
 Dataset
 
     │
@@ -97,11 +98,11 @@ Analysis
 
 EDA
 
-<img src="Images/EDA_1.png" width="800">
+<img src="Images/EDA(1).png" width="800">
 
 Correlation Heatmap
 
-<img src="Images/corelation_Heatmap.png" width="800">
+<img src="Images/corelation_heatmep.png" width="800">
 
 Prediction Result
 
